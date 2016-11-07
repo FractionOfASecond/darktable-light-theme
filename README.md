@@ -1,4 +1,8 @@
 # darktable-light-theme
 Light theme for Darktable
 
-1. Change definitions of color for file /usr/share/darktable/darktable.css - and you are done. Thank you!
+All this is ugly hacking, but it works for me. Maybe will work for you.
+
+You have two options:
+1) change source code, recompile, install, change style
+2) change style, change plugin
