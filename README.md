@@ -5,7 +5,7 @@ Not everything looks like it should, but it is fine for me. I prefer this than d
 more time on this.
 
 You have two options:
-1. change source code, recompile, install, change css style (more clean)
+1. change source code, recompile, install, change css style (more clean)  
 2. change style, change plugin (very ugly and risky, but who knows, maybe will work)
 
 I was working on version 2.2.0rc0+20~g791ada8-dirty, commit 791ada866085fbd10a8a6bbe1e080409fa8a13cf.
