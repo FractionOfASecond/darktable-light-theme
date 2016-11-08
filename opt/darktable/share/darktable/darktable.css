@@ -155,7 +155,7 @@ GtkAlignment
   border-radius: 2px;
   margin: 0px;
   padding: 1px 4px 1px 4px;
-  color: #F00;
+  color: @selected_fg_color;
   background-color: @selected_bg_color;
 }
 
