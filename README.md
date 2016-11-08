@@ -4,7 +4,7 @@ All this is ugly hacking, but it works for me. Maybe will work for you.
 Not everything looks like it should, but it is fine for me. I prefer this than dark darktable, and I don't want to spend
 more time on this.
 
-You have two options:
+You have two options:  
 1. change source code, recompile, install, change css style (more clean)  
 2. change style, change plugin (very ugly and risky, but who knows, maybe will work)
 
