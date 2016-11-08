@@ -1,7 +1,9 @@
 #Light theme for Darktable
 
 All this is ugly hacking, but it works for me. Maybe will work for you.
-Not everything looks like it should, but it is fine for me. I prefer this than dark darktable, and I don't want to spend
+Not everything looks like it should, but it is fine for me. 
+The result is here <https://raw.githubusercontent.com/ip413/darktable-light-theme/master/dartable-light.gif>.  
+I prefer this than dark darktable, and I don't want to spend
 more time on this.
 
 You have two options:  
