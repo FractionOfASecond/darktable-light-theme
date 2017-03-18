@@ -11,7 +11,7 @@ more time on this trying to make it perfect.<br>
 2. change style, change plugin (very ugly and risky, but who knows, maybe will work)<br>
 3. change style (the most clean option, but without white background in darkroom, under photo)<br>
 <br><br>
-I was working on version 2.0.7-dirty, commit d2bec77e44ed83769a154180abf6b612537ff16f, this is version was used to create release 2.0.7.
+I was working on version 2.2.3-dirty, commit 1b9ceb77d9b7b4bcbd7c5aee1c9cc3ffb353252e, this is version was used to create release 2.2.3.
 
 ###1
 1.0. Get darktable source code <https://github.com/darktable-org/darktable><br>
@@ -23,7 +23,7 @@ I was working on version 2.0.7-dirty, commit d2bec77e44ed83769a154180abf6b612537
 Run darktable and enjoy white theme<br>
 
 ###2
-I didn't check this option, but if you already have version 2.0.7 or any similar, it could work.<br>
+I didn't check this option, but if you already have version 2.2.3 or any similar, it could work.<br>
 If not... there could be some crash.<br>
 If you don't have directory "/opt/darktable/", you could have those files in "/usr/share/darktable/".<br>
 2.1. Replace file /opt/darktable/lib/darktable/views/libdarkroom.so with mine<br>
